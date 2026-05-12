@@ -1,0 +1,10 @@
+yfinance
+newsapi-python
+transformers
+torch
+streamlit
+plotly
+pandas
+scikit-learn
+python-dotenv
+pyarrow
