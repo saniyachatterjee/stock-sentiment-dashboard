@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+data/raw/
+data/processed/news_scored.csv
+.DS_Store
+*.pt
+*.pkl
